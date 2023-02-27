@@ -1,0 +1,66 @@
+body{
+   
+    margin: 0;
+    padding: 10px;
+}
+header{
+    background-image: url("../ai/arr.jpeg");
+        background-size: cover;
+        background-position: center;
+        opacity: 0.8;
+        height: 70vh;
+        margin: o;
+        text-align: center;
+        align-content: center;
+    }
+    header h1{
+        color: yellow;
+        font-family: time new roman;
+        position: absolute;
+        top: 40%;
+        left: 40%;
+    
+    }
+    nav{
+        position:sticky;
+        top: 0;
+        text-transform: uppercase;
+        text-size-adjust: 50px;
+        padding-bottom: -10px;
+        width: 100%;
+        margin: 0px;
+    }
+    nav ul{
+        background-color: whitesmoke; overflow: hidden;
+    }
+    ul.topnav li{
+        padding-top: 50px;
+        padding-right: 40px;
+        padding-bottom: 30px;
+        float: right;
+        list-style: none;
+    }
+    ul.topnav li a{
+        color: rgb(48, 240, 9);
+        text-decoration: none;
+        padding: 10px;
+    }
+    ul.topnav li :hover{
+        background-color: rgb(11, 66, 216);
+        color: white;
+    }
+    /*navigation image*/
+    .topnav1 img{
+        width: 150px;
+    }
+
+
+    img{
+        width: 100%;
+        display: block;
+    }
+ .design-text p{
+   
+    font-weight: 500%;
+    font-family: verdana;
+ }
